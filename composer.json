@@ -19,7 +19,7 @@
     },
     "repositories": [
         {
-          "type": "vcs",
+          "type": "git",
           "url": "github.com/amrutasolanki/test"
         }
       ],
