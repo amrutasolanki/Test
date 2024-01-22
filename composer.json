@@ -20,7 +20,7 @@
     "repositories": [
         {
           "type": "vcs",
-          "url": "github.com/amrutasolanki/Test"
+          "url": "github.com/amrutasolanki/test"
         }
       ]
 }
