@@ -1,26 +1,26 @@
 {
     "name": "aimsinfosoft/base",
     "description": "Aimsinfosoft Base",
-    "license": "proprietary",
-    "authors": [
-        {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
-        }
-    ],
-    "repositories":
-    {
-      "url": "github.com/amrutasolanki/Test.git", 
-      "type": "git"
+    "require": {
+        "php": ">=7.3"
     },
-    "minimum-stability": "dev",
-    "require": {},
+    "type": "magento2-module",
+    "version": "1.1.0",
+    "license": [
+        "Commercial"
+    ],
     "autoload": {
-        "psr-4": {
-            "Aimsinfosoft\\Base\\": ""
-        },
         "files": [
             "registration.php"
-        ]
-    }
+        ],
+        "psr-4": {
+            "Aimsinfosoft\\Base\\": ""
+        }
+    },
+    "repositories": [
+        {
+          "type": "git",
+          "url": "github.com/amrutasolanki/Test.git"
+        }
+      ]
 }
