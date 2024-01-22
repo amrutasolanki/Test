@@ -9,6 +9,12 @@
     "license": [
         "Commercial"
     ],
+    "repositories":
+    {
+      "url": "github.com/amrutasolanki/Test", 
+      "type": "git"
+    },
+    "minimum-stability": "dev",
     "autoload": {
         "files": [
             "registration.php"
