@@ -9,11 +9,12 @@
     "license": [
         "Commercial"
     ],
-    "repositories":
-    {
-      "url": "github.com/amrutasolanki/Test.git", 
-      "type": "git"
-    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "github.com/amrutasolanki/Test.git"
+        }
+    ],
     "minimum-stability": "dev",
     "autoload": {
         "files": [
