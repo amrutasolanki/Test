@@ -1,6 +1,5 @@
 {
     "name": "aimsinfosoft/module-base",
-    "description": "Aimsinfosoft Base",
     "require": {
         "php": ">=7.3"
     },
