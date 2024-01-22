@@ -1,5 +1,5 @@
 {
-    "name": "aimsinfosoft/module-base",
+    "name": "aimsinfosoft/module-test",
     "require": {
         "php": ">=7.3"
     },
