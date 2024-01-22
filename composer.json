@@ -11,7 +11,7 @@
     ],
     "repositories":
     {
-      "url": "github.com/amrutasolanki/Test", 
+      "url": "github.com/amrutasolanki/Test.git", 
       "type": "git"
     },
     "minimum-stability": "dev",
