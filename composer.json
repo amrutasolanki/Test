@@ -22,6 +22,5 @@
           "type": "vcs",
           "url": "https://github.com/amrutasolanki/test.git"
         }
-      ],
-      "minimum-stability": "dev"
+      ]
 }
