@@ -7,6 +7,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Aimsinfosoft_Base',
+    'Aimsinfosoft_Base1',
     __DIR__
 );
